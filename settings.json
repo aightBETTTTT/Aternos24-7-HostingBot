@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "Pl1nk037.aternos.me:46077",
+    "port": 46077,
     "version": "",
     "try-creative": false
   },
@@ -23,11 +23,11 @@
       "password": "chalol78"
     },
     "anti-afk": {
-      "enabled": true,
+      "enabled": false ,
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false ,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
@@ -37,8 +37,8 @@
       ]
     },
     "chat-log": true,
-    "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
+    "auto-reconnect": false ,
+    "auto-reconnect-delay": 100000,
     "max-reconnect-delay": 120000,
     "periodic-rejoin": {
       "enabled": false,
